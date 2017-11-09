@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/jordao/Downloads/Test/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d971cfa5dcb2a41f5d395ab6a8641baa104fc40">
+        <dex dex="/home/jordao/Downloads/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_2209336ce0a7224d6d90625afd129c87f69aa811/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/jordao/Downloads/Test/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/jordao/Downloads/Test/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_70e425cf9dcfe2fd42eebaf9838fe70ebb677e57/classes.dex" />
+    </item>
+
+</items>
